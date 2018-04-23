@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineChart", "LineChart\LineChart.csproj", "{116FB26B-78B5-435B-83E4-42BCA70107D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineChart.Web", "LineChart.Web\LineChart.Web.csproj", "{70322230-D047-49CB-B5E2-930D28FCBEF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{116FB26B-78B5-435B-83E4-42BCA70107D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116FB26B-78B5-435B-83E4-42BCA70107D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116FB26B-78B5-435B-83E4-42BCA70107D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116FB26B-78B5-435B-83E4-42BCA70107D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70322230-D047-49CB-B5E2-930D28FCBEF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70322230-D047-49CB-B5E2-930D28FCBEF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70322230-D047-49CB-B5E2-930D28FCBEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70322230-D047-49CB-B5E2-930D28FCBEF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
