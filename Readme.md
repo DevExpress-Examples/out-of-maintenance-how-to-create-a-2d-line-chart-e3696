@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/LineChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/LineChart/MainPage.xaml))
+<!-- default file list end -->
 # How to create a 2D Line chart
 
 
